@@ -14,7 +14,7 @@ Images
 
 ![Mandelbrot Local Webserver](/screenshots/webserver.png?raw=true "Mandelbrot Local Webserver")
 
-![Red Green Theme](/screenshots/red-green-theme.png.png?raw=true "Red Green Theme")
+![Red Green Theme](/screenshots/red-green-theme.png?raw=true "Red Green Theme")
 
 
 License
